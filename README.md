@@ -11,5 +11,7 @@ Néseciter les library suivante:
   dotenv
 
 Afin de faire fonctioner les bot vou devrez créer un fichier identique au fichier "config" se noman "Clef"se dernier devra etre renpli de la sorte:
+
 TOKEN=[Votre token priver de votre bot dscord]
+
 openaikey=[votr clef de l'API openAI]

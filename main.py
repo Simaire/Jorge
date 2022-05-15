@@ -26,12 +26,12 @@ async def on_message(message):
 
         openai.api_key = openaikey
 
-        start_sequence = "\nAI:"
+        start_sequence = "\n "
         restart_sequence = "\nHuman: "
 
         response = openai.Completion.create(
             engine="text-davinci-002",
-            prompt="Ce qui suit est une conversation avec un assistant IA. L'assistant est serviable, créatif, intelligent et très sympathique. Il s'apelle Jorge\n\nHumain : Bonjour, qui êtes-vous ?\nIA : Je suis une IA créée par OpenAI. Comment puis-je vous aider aujourd'hui?\nHuman: " + message.content,
+            prompt="Ce qui suit est une conversation avec un assistant IA. L'assistant est serviable, créatif, intelligent et très sympathique. Il s'apelle Jorge\n\nHumain : Bonjour, qui êtes-vous ?\n Je suis une IA créée par OpenAI. Comment puis-je vous aider aujourd'hui?\nHuman: " + message.content,
             temperature=0.9,
             max_tokens=150,
             top_p=1,

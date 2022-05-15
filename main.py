@@ -24,8 +24,6 @@ async def on_message(message):
     if Bot == False:
         print("Par un human")
 
-        await message.channel.send(message.content)
-
         openai.api_key = openaikey
 
         start_sequence = "\nAI:"
@@ -33,15 +31,14 @@ async def on_message(message):
 
         response = openai.Completion.create(
             engine="text-davinci-002",
-            prompt="Ce qui suit est une conversation avec un assistant IA. L'assistant est serviable, créatif, intelligent et très sympathique.\n\nHumain : Bonjour, qui êtes-vous ?\nIA : Je suis une IA créée par OpenAI. Comment puis-je vous aider aujourd'hui?\nHuman: " + input(
-                "Human: "),
+            prompt="Ce qui suit est une conversation avec un assistant IA. L'assistant est serviable, créatif, intelligent et très sympathique. Il s'apelle Jorge\n\nHumain : Bonjour, qui êtes-vous ?\nIA : Je suis une IA créée par OpenAI. Comment puis-je vous aider aujourd'hui?\nHuman: " + message.content,
             temperature=0.9,
             max_tokens=150,
             top_p=1,
             frequency_penalty=0,
             presence_penalty=0.6,
             stop=[" Human:", " AI:"]
-        )
+    )
         content = response.choices[0].text
 
 

@@ -1,6 +1,3 @@
-
-# JORGE
-
 <p align="center">
   <h1 align="center">JORGE</h1>
 </p>
@@ -116,23 +113,3 @@ Ce projet est protégé par la [licence MIT](https://choosealicense.com/licenses
 - Utilisation de l'API OpenAI
 
 ---
-
-# Jorge
-Un bot Discord en Python, libre de droit.
-
-**À noter :**  
-Évitez de spammer et attendez la réponse du bot !
-
-**Bibliothèques nécessaires :**
-- `os`
-- `discord`
-- `openai`
-- `dotenv`
-
-Pour faire fonctionner le bot, vous devez créer un fichier nommé `Clef`, identique au fichier "config", et le remplir comme suit :
-
-```plaintext
-TOKEN=[Votre token privé de votre bot Discord]
-
-openaikey=[Votre clé API OpenAI]
-```

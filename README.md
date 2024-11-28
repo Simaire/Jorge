@@ -5,12 +5,9 @@
   <em><code>❯ À REMPLACER</code></em>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/license/Simaire/Jorge?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-  <img src="https://img.shields.io/github/last-commit/Simaire/Jorge?style=flat&logo=git&logoColor=white&color=0080ff" alt="dernière-commit">
   <img src="https://img.shields.io/github/languages/top/Simaire/Jorge?style=flat&color=0080ff" alt="langage-principal">
   <img src="https://img.shields.io/github/languages/count/Simaire/Jorge?style=flat&color=0080ff" alt="nombre-langages">
 </p>
-<p align="center">Construit avec les outils et technologies suivants :</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python">
 </p>
@@ -21,13 +18,10 @@
 - [📍 Aperçu](#-aperçu)
 - [👾 Fonctionnalités](#-fonctionnalités)
 - [📁 Structure du Projet](#-structure-du-projet)
-  - [📂 Index du Projet](#-index-du-projet)
 - [🚀 Démarrage](#-démarrage)
   - [☑️ Prérequis](#-prérequis)
   - [⚙️ Installation](#-installation)
   - [🤖 Utilisation](#🤖-utilisation)
-  - [🧪 Tests](#🧪-tests)
-- [📌 Feuille de Route](#-feuille-de-route)
 - [🔰 Contribution](#-contribution)
 - [🎗 Licence](#-licence)
 - [🙌 Remerciements](#-remerciements)

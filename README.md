@@ -104,10 +104,8 @@ Install Jorge using one of the following methods:
 ```sh
 ❯ pip install -r requirements.txt
 ```
-4. Set your keys:
 > [!IMPORTANT]  
-> **TOKEN=[Votre token priver de votre bot dscord]
-> openaikey=[votr clef de l'API openAI]**
+> ** Set your keys in config **
 
 ### 🤖 Usage
 Run Jorge using the following command:
@@ -118,9 +116,8 @@ Run Jorge using the following command:
 
 ## 🔰 Contributing
 
-- **💬 [Join the Discussions](https://github.com/Simaire/Jorge/discussions)**: Share your insights, provide feedback, or ask questions.
 - **🐛 [Report Issues](https://github.com/Simaire/Jorge/issues)**: Submit bugs found or log feature requests for the `Jorge` project.
-- **💡 [Submit Pull Requests](https://github.com/Simaire/Jorge/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **💡 [Submit Pull Requests](https://github.com/Simaire/Jorge/pulls)**: Review open PRs, and submit your own PRs.
 
 
 

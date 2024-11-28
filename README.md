@@ -105,7 +105,7 @@ Install Jorge using one of the following methods:
 ❯ pip install -r requirements.txt
 ```
 > [!IMPORTANT]  
-> ** Set your keys in config **
+> **Set your keys in config**
 
 ### 🤖 Usage
 Run Jorge using the following command:

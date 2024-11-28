@@ -109,8 +109,8 @@ Install Jorge using one of the following methods:
 ```
 4. Set your keys:
 > [!IMPORTANT]  
-> **TOKEN=[Votre token priver de votre bot dscord]**
-> **openaikey=[votr clef de l'API openAI]**
+> **TOKEN=[Votre token priver de votre bot dscord]
+> openaikey=[votr clef de l'API openAI]**
 
 ### 🤖 Usage
 Run Jorge using the following command:

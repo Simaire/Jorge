@@ -107,12 +107,16 @@ Install Jorge using one of the following methods:
 ```sh
 ❯ pip install -r requirements.txt
 ```
-
-
+4. Set your keys:
+> [!IMPORTANT]  
+> **TOKEN=[Votre token priver de votre bot dscord]**
+> **openaikey=[votr clef de l'API openAI]**
 
 ### 🤖 Usage
 Run Jorge using the following command:
-echo 'INSERT-RUN-COMMAND-HERE'
+```sh
+❯ python nom_du_script.py
+```
 
 ### 🧪 Testing
 Run the test suite using the following command:

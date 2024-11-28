@@ -1,50 +1,55 @@
-<p align="center"><h1 align="center">JORGE</h1></p>
+
+# JORGE
+
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+  <h1 align="center">JORGE</h1>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/Simaire/Jorge?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/Simaire/Jorge?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/Simaire/Jorge?style=flat&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/Simaire/Jorge?style=flat&color=0080ff" alt="repo-language-count">
+  <em><code>❯ À REMPLACER</code></em>
 </p>
-<p align="center">Built with the tools and technologies:</p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/github/license/Simaire/Jorge?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+  <img src="https://img.shields.io/github/last-commit/Simaire/Jorge?style=flat&logo=git&logoColor=white&color=0080ff" alt="dernière-commit">
+  <img src="https://img.shields.io/github/languages/top/Simaire/Jorge?style=flat&color=0080ff" alt="langage-principal">
+  <img src="https://img.shields.io/github/languages/count/Simaire/Jorge?style=flat&color=0080ff" alt="nombre-langages">
+</p>
+<p align="center">Construit avec les outils et technologies suivants :</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python">
 </p>
 <br>
 
-## 🔗 Table of Contents
+## 🔗 Table des Matières
 
-- [📍 Overview](#-overview)
-- [👾 Features](#-features)
-- [📁 Project Structure](#-project-structure)
-  - [📂 Project Index](#-project-index)
-- [🚀 Getting Started](#-getting-started)
-  - [☑️ Prerequisites](#-prerequisites)
+- [📍 Aperçu](#-aperçu)
+- [👾 Fonctionnalités](#-fonctionnalités)
+- [📁 Structure du Projet](#-structure-du-projet)
+  - [📂 Index du Projet](#-index-du-projet)
+- [🚀 Démarrage](#-démarrage)
+  - [☑️ Prérequis](#-prérequis)
   - [⚙️ Installation](#-installation)
-  - [🤖 Usage](#🤖-usage)
-  - [🧪 Testing](#🧪-testing)
-- [📌 Project Roadmap](#-project-roadmap)
-- [🔰 Contributing](#-contributing)
-- [🎗 License](#-license)
-- [🙌 Acknowledgments](#-acknowledgments)
+  - [🤖 Utilisation](#🤖-utilisation)
+  - [🧪 Tests](#🧪-tests)
+- [📌 Feuille de Route](#-feuille-de-route)
+- [🔰 Contribution](#-contribution)
+- [🎗 Licence](#-licence)
+- [🙌 Remerciements](#-remerciements)
 
 ---
 
-## 📍 Overview
+## 📍 Aperçu
 
-<code>❯ Jorge est un programme permetant de relier discord et une IA conversitionnelle des service d'Open AI. Ce projet a été realiser dans un but d'aprentisage de l'utilisation d'API avec python</code>
-
----
-
-## 👾 Features
-
-<code>❯ Links 2 API for chat in discord with an AI</code>
+<code>❯ Jorge est un programme permettant de connecter Discord à une IA conversationnelle des services d'OpenAI. Ce projet a été réalisé dans le but d'apprendre l'utilisation d'API avec Python.</code>
 
 ---
 
-## 📁 Project Structure
+## 👾 Fonctionnalités
+
+<code>❯ Connecte deux API pour une conversation sur Discord avec une IA.</code>
+
+---
+
+## 📁 Structure du Projet
 
 ```sh
 └── Jorge/
@@ -53,81 +58,81 @@
     └── main.py
 ```
 ---
-## 🚀 Getting Started
 
-### ☑️ Prerequisites
+## 🚀 Démarrage
 
-Before getting started with Jorge, ensure your runtime environment meets the following requirements:
+### ☑️ Prérequis
 
-- **Programming Language:** Python
+Avant de commencer, assurez-vous que votre environnement de développement répond aux exigences suivantes :
 
+- **Langage de programmation :** Python
 
 ### ⚙️ Installation
 
-Install Jorge using one of the following methods:
+Installez Jorge en suivant ces étapes :
 
-**Build from source:**
+**Depuis la source :**
 
-1. Clone the Jorge repository:
+1. Clonez le dépôt Jorge :
 ```sh
 ❯ git clone https://github.com/Simaire/Jorge
 ```
 
-2. Navigate to the project directory:
+2. Accédez au répertoire du projet :
 ```sh
 ❯ cd Jorge
 ```
 
-3. Install the project dependencies:
+3. Installez les dépendances du projet :
 ```sh
 ❯ pip install -r requirements.txt
 ```
-> [!IMPORTANT]  
-> **Set your keys in Clef**
 
-### 🤖 Usage
-Run Jorge using the following command:
+> **Important :** Configurez vos clés dans le fichier `Clef`.
+
+### 🤖 Utilisation
+
+Exécutez Jorge avec la commande suivante :
 ```sh
 ❯ python nom_du_script.py
 ```
 
+## 🔰 Contribution
 
-## 🔰 Contributing
-
-- **🐛 [Report Issues](https://github.com/Simaire/Jorge/issues)**: Submit bugs found or log feature requests for the `Jorge` project.
-- **💡 [Submit Pull Requests](https://github.com/Simaire/Jorge/pulls)**: Review open PRs, and submit your own PRs.
-
-
+- **🐛 [Signaler des Problèmes](https://github.com/Simaire/Jorge/issues)** : Soumettez les bogues trouvés ou proposez des idées d'amélioration pour le projet `Jorge`.
+- **💡 [Soumettre des Pull Requests](https://github.com/Simaire/Jorge/pulls)** : Consultez les PR ouvertes et proposez vos contributions.
 
 ---
 
-## 🎗 License
+## 🎗 Licence
 
-This project is protected under the [MIT License](https://choosealicense.com/licenses/mit/#) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+Ce projet est protégé par la [licence MIT](https://choosealicense.com/licenses/mit/). Pour plus de détails, consultez le fichier [LICENSE](https://github.com/Simaire/Jorge/blob/master/LICENSE).
 
 ---
 
-## 🙌 Acknowledgments
+## 🙌 Remerciements
 
-- Work with Dicord API
-- Work with open AI API
+- Utilisation de l'API Discord
+- Utilisation de l'API OpenAI
 
 ---
 
 # Jorge
-Un bot discord en python
-Libre de droit.
+Un bot Discord en Python, libre de droit.
 
-Eviter de spame est atender la reponse du bot!
+**À noter :**  
+Évitez de spammer et attendez la réponse du bot !
 
-Néseciter les library suivante:
-  os
-  discord
-  openai
-  dotenv
+**Bibliothèques nécessaires :**
+- `os`
+- `discord`
+- `openai`
+- `dotenv`
 
-Afin de faire fonctioner les bot vou devrez créer un fichier identique au fichier "config" se noman "Clef"se dernier devra etre renpli de la sorte:
+Pour faire fonctionner le bot, vous devez créer un fichier nommé `Clef`, identique au fichier "config", et le remplir comme suit :
 
-TOKEN=[Votre token priver de votre bot dscord]
+```plaintext
+TOKEN=[Votre token privé de votre bot Discord]
 
-openaikey=[votr clef de l'API openAI]
+openaikey=[Votre clé API OpenAI]
+```

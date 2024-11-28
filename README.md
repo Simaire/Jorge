@@ -2,7 +2,7 @@
   <h1 align="center">JORGE</h1>
 </p>
 <p align="center">
-  <em><code>❯ À REMPLACER</code></em>
+  <em><code>❯ By Simaire</code></em>
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/Simaire/Jorge?style=flat&color=0080ff" alt="langage-principal">

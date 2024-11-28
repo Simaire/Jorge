@@ -34,13 +34,13 @@
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ Jorge est un programme permetant de relier discord et une IA conversitionnelle des service d'Open AI. Ce projet a été realiser dans un but d'aprentisage de l'utilisation d'API avec python</code>
 
 ---
 
 ## 👾 Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯ Links 2 API for chat in discord with an AI</code>
 
 ---
 
@@ -52,28 +52,6 @@
     ├── config
     └── main.py
 ```
-
-
-### 📂 Project Index
-<details open>
-	<summary><b><code>JORGE/</code></b></summary>
-	<details> <!-- __root__ Submodule -->
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/Simaire/Jorge/blob/master/config'>config</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Simaire/Jorge/blob/master/main.py'>main.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-</details>
-
 ---
 ## 🚀 Getting Started
 
@@ -105,7 +83,7 @@ Install Jorge using one of the following methods:
 ❯ pip install -r requirements.txt
 ```
 > [!IMPORTANT]  
-> **Set your keys in config**
+> **Set your keys in Clef**
 
 ### 🤖 Usage
 Run Jorge using the following command:
@@ -125,7 +103,7 @@ Run Jorge using the following command:
 
 ## 🎗 License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+This project is protected under the [MIT License](https://choosealicense.com/licenses/mit/#) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
 
 ---
 

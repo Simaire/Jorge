@@ -104,8 +104,9 @@ Install Jorge using one of the following methods:
 ```
 
 3. Install the project dependencies:
-
-echo 'INSERT-INSTALL-COMMAND-HERE'
+```sh
+❯ pip install -r requirements.txt
+```
 
 
 
